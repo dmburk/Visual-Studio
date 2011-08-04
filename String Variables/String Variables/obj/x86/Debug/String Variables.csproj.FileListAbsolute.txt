@@ -1,0 +1,9 @@
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\String Variables\String Variables\bin\Debug\String Variables.exe
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\String Variables\String Variables\bin\Debug\String Variables.pdb
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\String Variables\String Variables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\String Variables\String Variables\obj\x86\Debug\String_Variables.Form1.resources
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\String Variables\String Variables\obj\x86\Debug\String_Variables.Properties.Resources.resources
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\String Variables\String Variables\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\String Variables\String Variables\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\String Variables\String Variables\obj\x86\Debug\String Variables.exe
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\String Variables\String Variables\obj\x86\Debug\String Variables.pdb
