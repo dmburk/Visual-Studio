@@ -1,0 +1,11 @@
+C:\Documents and Settings\Michael\Local Settings\Application Data\Temporary Projects\Debugging\bin\Debug\Debugging.exe
+C:\Documents and Settings\Michael\Local Settings\Application Data\Temporary Projects\Debugging\bin\Debug\Debugging.pdb
+C:\Documents and Settings\Michael\Local Settings\Application Data\Temporary Projects\Debugging\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael\Local Settings\Application Data\Temporary Projects\Debugging\obj\x86\Debug\Debugging.Form1.resources
+C:\Documents and Settings\Michael\Local Settings\Application Data\Temporary Projects\Debugging\obj\x86\Debug\Debugging.Properties.Resources.resources
+C:\Documents and Settings\Michael\Local Settings\Application Data\Temporary Projects\Debugging\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Michael\Local Settings\Application Data\Temporary Projects\Debugging\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Michael\Local Settings\Application Data\Temporary Projects\Debugging\obj\x86\Debug\Debugging.exe
+C:\Documents and Settings\Michael\Local Settings\Application Data\Temporary Projects\Debugging\obj\x86\Debug\Debugging.pdb
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Debugging\Debugging\obj\x86\Debug\Debugging.exe
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Debugging\Debugging\obj\x86\Debug\Debugging.pdb

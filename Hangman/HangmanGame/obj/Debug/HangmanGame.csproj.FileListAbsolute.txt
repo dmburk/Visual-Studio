@@ -1,0 +1,9 @@
+C:\Documents and Settings\Michael\My Documents\Visual Studio 2010\Projects\Hangman\HangmanGame\obj\Debug\HangmanGame.exe
+C:\Documents and Settings\Michael\My Documents\Visual Studio 2010\Projects\Hangman\HangmanGame\obj\Debug\HangmanGame.pdb
+C:\Documents and Settings\Michael\My Documents\Visual Studio 2010\Projects\Hangman\HangmanGame\bin\Debug\HangmanGame.exe
+C:\Documents and Settings\Michael\My Documents\Visual Studio 2010\Projects\Hangman\HangmanGame\bin\Debug\HangmanGame.pdb
+C:\Documents and Settings\Michael\My Documents\Visual Studio 2010\Projects\Hangman\HangmanGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael\My Documents\Visual Studio 2010\Projects\Hangman\HangmanGame\obj\Debug\HangmanGame.Form1.resources
+C:\Documents and Settings\Michael\My Documents\Visual Studio 2010\Projects\Hangman\HangmanGame\obj\Debug\HangmanGame.Properties.Resources.resources
+C:\Documents and Settings\Michael\My Documents\Visual Studio 2010\Projects\Hangman\HangmanGame\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Michael\My Documents\Visual Studio 2010\Projects\Hangman\HangmanGame\obj\Debug\GenerateResource.write.1.tlog
