@@ -16,21 +16,36 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
+        HappyBirthday birthdayMessage = new HappyBirthday();
+
         private void button1_Click(object sender, EventArgs e)
         {
-            HappyBirthday birthdayMessage;
-            birthdayMessage = new HappyBirthday();
+            //HappyBirthday birthdayMessage;
+            //birthdayMessage = new HappyBirthday();
             // You can do the above in one line.
             // HappyBirthday birthdayMessage = new HappyBirthday();
 
             // MessageBox.Show(birthdayMessage.getMessage("Mike"));
 
-            birthdayMessage.MyProperty = "Mike";
             birthdayMessage.PresentCount = 5;
+            birthdayMessage.MyProperty = "Mike";
+            
 
             string returnedMessage;
             returnedMessage = birthdayMessage.MyProperty;
             MessageBox.Show(returnedMessage);
+        }
+
+        private void party_CheckedChanged(object sender, EventArgs e)
+        {
+            if (party.Checked)
+            {
+                birthdayMessage.HaveParty = true;
+            }
+            else
+            {
+                birthdayMessage.HaveParty = false;
+            }
         }
     }
 }
