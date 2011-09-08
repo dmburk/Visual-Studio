@@ -1,0 +1,14 @@
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\bin\Release\EveIndy.mdf
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\bin\Release\EveIndy_log.ldf
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\bin\Release\Eve Indy.exe.config
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\bin\Release\Eve Indy.exe
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\bin\Release\Eve Indy.pdb
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Release\Eve_Indy.Form_Main.resources
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Release\Eve_Indy.Form_Blueprints.resources
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Release\Eve_Indy.Form_Materials.resources
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Release\Eve_Indy.Properties.Resources.resources
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Release\Eve Indy.exe
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Release\Eve Indy.pdb

@@ -22,5 +22,10 @@ namespace Eve_Indy
         {
             materialsForm.ShowDialog();
         }
+
+        private void Form_Blueprints_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

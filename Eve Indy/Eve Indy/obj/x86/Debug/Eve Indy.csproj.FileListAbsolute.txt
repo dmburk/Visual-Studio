@@ -18,7 +18,6 @@ C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve I
 C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\bin\Debug\Eve Indy.exe
 C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\bin\Debug\Eve Indy.pdb
 C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Debug\Eve_Indy.Form1.resources
 C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Debug\Eve_Indy.Form_Blueprints.resources
 C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Debug\Eve_Indy.Form_Materials.resources
 C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Debug\Eve_Indy.Properties.Resources.resources
@@ -26,3 +25,5 @@ C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve I
 C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\bin\Debug\EveIndy.mdf
 C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\bin\Debug\EveIndy_log.ldf
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Debug\Eve_Indy.Form_Main.resources
+C:\Documents and Settings\Michael\my documents\visual studio 2010\Projects\Eve Indy\Eve Indy\obj\x86\Debug\Eve_Indy.frmPaM.resources

@@ -60,6 +60,7 @@
             this.Controls.Add(this.btnMaterials);
             this.Name = "Form_Blueprints";
             this.Text = "Blueprints";
+            this.Load += new System.EventHandler(this.Form_Blueprints_Load);
             this.ResumeLayout(false);
 
         }

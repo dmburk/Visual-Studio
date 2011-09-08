@@ -24,10 +24,11 @@ namespace Eve_Indy
 
         // Creates a new blueprints form object.
         Form_Blueprints blueprintsForm = new Form_Blueprints();
+        frmPaM PaMform = new frmPaM();
 
         private void Form_Main_Load(object sender, EventArgs e)
         {
-            // Create new instance of SQL Connection, DataAdapter, and Dataset.
+            // Create new instance of SQL Connection and Dataset.
             con = new System.Data.SqlClient.SqlConnection();
             ds1 = new DataSet();
 
@@ -49,6 +50,11 @@ namespace Eve_Indy
         private void button3_Click(object sender, EventArgs e)
         {
             blueprintsForm.ShowDialog();
+        }
+
+        private void btnPM_Click(object sender, EventArgs e)
+        {
+            PaMform.ShowDialog();
         }
 
     }
